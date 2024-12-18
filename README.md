@@ -5,8 +5,7 @@ Full-Stack | Odoo Developers | DevOps
 
 [![Github](https://img.shields.io/github/followers/tuanle96?style=social)](https://github.com/tuanle96)
 [![Github](https://img.shields.io/github/last-commit/tuanle96/tuanle96)](https://github.com/tuanle96/tuanle96)
-[![Github](https://img.shields.io/github/stars/trunghieuvn/flutter-clean-architecture?style=social)](https://github.com/trunghieuvn/trunghieuvn)
-[![Github](https://img.shields.io/github/watchers/tuanle96/tuanle96?style=social)](https://github.com/trunghieuvn/trunghieuvn)
+[![Github](https://img.shields.io/github/watchers/tuanle96/tuanle96?style=social)](https://github.com/tuanle96/tuanle96)
 
 
 ## Skills
